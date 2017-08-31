@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <integer-array name="color_picker_colors">
+
+        <item>@color/ai_lv</item>
+        <item>@color/cang_huang</item>
+        <item>@color/chi_jin</item>
+        <item>@color/ding_xiang_se</item>
+
+        <item>@color/huang_lu</item>
+        <item>@color/yue_bai</item>
+        <item>@color/shui_hong</item>
+        <item>@color/yu_se</item>
+
+        <item>@color/zhu_qing</item>
+        <item>@color/color_theme_12</item>
+        <item>@color/color_theme_1</item>
+        <item>@color/color_theme_2</item>
+
+        <item>@color/color_theme_4</item>
+        <item>@color/color_theme_5</item>
+        <item>@color/color_theme_6</item>
+        <item>@color/color_theme_8</item>
+
+    </integer-array>
+
+    <color name="zhu_qing">#789262</color>
+    <color name="chi_jin">#F2BE45</color>
+    <color name="qian_bai">#F0F0F4</color>
+    <color name="ying_bai">#E3F9FD</color>
+    <color name="su">#E0F0E9</color>
+    <color name="yue_bai">#D6ECF0</color>
+    <color name="shui_hong">#F3D3E7</color>
+    <color name="cang_huang">#519A73</color>
+    <color name="ding_xiang_se">#CCA4E3</color>
+    <color name="ai_lv">#A4E2C6</color>
+    <color name="yu_se">#7BCFA6</color>
+    <color name="huang_lu">#E29C45</color>
+    <color name="jiang_huang">#F0C239</color>
+
+    <color name="color_theme_1">#F8B291</color>
+    <color name="color_theme_dark_1">#F16423</color>
+
+    <color name="color_theme_2">#CDA5E3</color>
+    <color name="color_theme_dark_2">#9A7CAA</color>
+
+    <color name="color_theme_3">#5E7BD9</color>
+    <color name="color_theme_dark_3">#465CA3</color>
+
+    <color name="color_theme_4">#262626</color>
+    <color name="color_theme_dark_4">#1C1C1C</color>
+
+    <color name="color_theme_5">#40454B</color>
+    <color name="color_theme_dark_5">#303438</color>
+
+    <color name="color_theme_6">#70C3D1</color>
+    <color name="color_theme_dark_6">#54929D</color>
+
+    <color name="color_theme_7">#736A95</color>
+    <color name="color_theme_dark_7">#565070</color>
+
+    <color name="color_theme_8">#008080</color>
+    <color name="color_theme_dark_8">#006060</color>
+
+    <color name="color_theme_9">#FF8000</color>
+    <color name="color_theme_dark_9">#BF6000</color>
+
+    <color name="color_theme_10">#738D5E</color>
+    <color name="color_theme_dark_10">#566A46</color>
+
+    <color name="color_theme_11">#316D5C</color>
+    <color name="color_theme_dark_11">#255245</color>
+
+    <color name="color_theme_12">#607d8b</color>
+    <color name="color_theme_dark_12">#485E68</color>
+
+
+</resources>

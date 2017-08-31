@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <com.lxt.colorpick.ColorPickerPreference android:key="PREFS-COLOR_PICKER—_1"
+        android:title="颜色选取" android:summary="一共有16种颜色可以选取"/>
+
+    <com.lxt.colorpick.ColorPickerPreference android:key="PREFS-COLOR_PICKER_2"
+        android:title="颜色选取" android:summary="一共有16种颜色可以选取"/>
+
+
+</PreferenceScreen>

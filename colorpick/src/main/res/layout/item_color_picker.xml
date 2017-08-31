@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.lxt.colorpick.SquareLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/square_layout"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:minWidth="48dp"
+    android:minHeight="48dp"
+    android:layout_margin="4dp"
+    android:layout_height="match_parent">
+
+    <com.lxt.colorpick.SquareImageView
+        android:id="@+id/item_image"
+        android:background="@drawable/checked"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <CheckBox
+        android:layout_gravity="center"
+        android:id="@+id/checkbox"
+        android:button="@drawable/checked"
+        android:layout_width="24dp"
+        android:layout_height="24dp" />
+
+</com.lxt.colorpick.SquareLayout>
